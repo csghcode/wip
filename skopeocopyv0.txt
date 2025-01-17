@@ -1,0 +1,2 @@
+create a shell script to copy container images listed in images.txt hosted on azurecr.io to amazon ECR awsaccount.dkr.ecr.eu-west-1.amazonaws.com and create a new repository if not exist.
+skopeo should be used to compy the images.
